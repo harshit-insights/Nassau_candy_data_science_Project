@@ -1,0 +1,10 @@
+﻿candy_env/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
